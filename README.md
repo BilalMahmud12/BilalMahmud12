@@ -21,6 +21,12 @@ A framework-independent exploration of software architecture through business id
 ### [Codara](https://github.com/BilalMahmud12/codara)
 A semantic code-intelligence engine focused on understanding software structure and meaning.
 
+### [Kernel](https://github.com/BilalMahmud12/kernel)
+A workflow, context, and protocol framework for human–AI software engineering teams.
+
+### [.context](https://github.com/BilalMahmud12/.context)
+A Git-based global context and configuration system for AI-augmented development across projects and machines.
+
 ## Elsewhere
 
 [LinkedIn](https://www.linkedin.com/in/bilalmahmud) · [Active34](https://active34.com)
