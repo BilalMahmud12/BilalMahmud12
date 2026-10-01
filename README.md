@@ -1,16 +1,16 @@
-## Hi there 👋
+# Bilal Mahmud
 
-<!--
-**BilalMahmud12/BilalMahmud12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Tech Lead and Software Architect focused on distributed systems, backend platforms, and architecture modernization.
 
-Here are some ideas to get you started:
+Current work and research:
+- Node.js / TypeScript backend systems
+- Distributed and event-driven architecture
+- DDD / CQRS and domain modeling
+- Large-scale refactoring and engineering automation
+- Datum Theory and Domain-Sovereign Architecture (DSA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Selected projects:
+- [Datum Theory](https://github.com/BilalMahmud12/datum-theory)
+- [Codara](https://github.com/BilalMahmud12/codara)
+
+[LinkedIn](https://www.linkedin.com/in/bilalmahmud) · [Active34](https://active34.com)
